@@ -16,6 +16,8 @@ namespace WindowsFormsApp1
     {
         MySqlConnection cnn;
         int codsis = 0,idu=0;
+		// nueva linea
+		int linea;
 
         public SqlConnection conn;
 
